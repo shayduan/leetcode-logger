@@ -133,3 +133,11 @@
 
 [1227. 飞机座位分配概率](https://github.com/Tscharrl/Leetcode/blob/master/1227.%20%E9%A3%9E%E6%9C%BA%E5%BA%A7%E4%BD%8D%E5%88%86%E9%85%8D%E6%A6%82%E7%8E%87.cpp)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/shayduan/leetcode-logger/tree/master/0058-length-of-last-word) |
+<!---LeetCode Topics End-->
