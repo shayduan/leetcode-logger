@@ -139,6 +139,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shayduan/leetcode-logger/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shayduan/leetcode-logger/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
