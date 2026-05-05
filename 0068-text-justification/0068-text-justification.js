@@ -3,7 +3,72 @@
  * @param {number} maxWidth
  * @return {string[]}
  */
+
 var fullJustify = function(words, maxWidth) {
+    const res = [];
+    let i = 0;
+    while (i < words.length) {
+        const j = getLineEnd(words, i, maxWidth);
+        res.push(buildLine(words, i, j, maxWidth));
+        i = j;
+    }
+    return res;
+};
+
+const getLineEnd = (words, start, maxWidth) => {
+    let j = start;
+    let lineLen = 0;
+    while (
+        j < words.length &&
+        lineLen + words[j].length + (j - start) <= maxWidth
+    ) {
+        lineLen += words[j].length;
+        j++;
+    }
+    return j; // [start, j)
+}
+
+const buildLine = (words, i, j, maxWidth) => {
+    const gaps = j - i - 1;
+    // total length of words
+    let wordsLen = 0;
+    for (let k = i; k < j; k++) {
+        wordsLen += words[k].length;
+    }
+    // last line or single word
+    if (j === words.length || gaps === 0) {
+        return leftJustify(words, i, j, maxWidth);
+    }
+    return fullJustifyLine(words, i, j, wordsLen, gaps, maxWidth);
+}
+
+const leftJustify = (words, i, j, maxWidth) => {
+    let line = '';
+    for (let k = i; k < j; k++) {
+        line += words[k];
+        if (k < j - 1) line += ' ';
+    }
+    return line + ' '.repeat(maxWidth - line.length);
+}
+
+const fullJustifyLine = (words, i, j, wordsLen, gaps, maxWidth) => {
+    const totalSpaces = maxWidth - wordsLen;
+    const base = Math.floor(totalSpaces / gaps);
+    const extra = totalSpaces % gaps;
+    let line = '';
+    for (let k = i; k < j; k++) {
+        line += words[k];
+        if (k < j - 1) {
+            const spaces = base + (k - i < extra ? 1 : 0);
+            line += ' '.repeat(spaces);
+        }
+    }
+    return line;
+}
+
+// --------------------------------------------------------------------
+
+var fullJustify0 = function(words, maxWidth) {
     let i = 0, j = 0; // [i, j] are words for the current line
     let res = [];
 
