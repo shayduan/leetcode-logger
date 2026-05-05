@@ -142,6 +142,7 @@
 | [0006-zigzag-conversion](https://github.com/shayduan/leetcode-logger/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shayduan/leetcode-logger/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
@@ -151,8 +152,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
+| [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
