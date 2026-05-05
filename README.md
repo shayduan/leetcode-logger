@@ -145,11 +145,13 @@
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
