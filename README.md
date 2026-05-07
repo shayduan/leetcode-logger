@@ -142,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shayduan/leetcode-logger/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shayduan/leetcode-logger/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shayduan/leetcode-logger/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/shayduan/leetcode-logger/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shayduan/leetcode-logger/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shayduan/leetcode-logger/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -203,4 +205,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shayduan/leetcode-logger/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shayduan/leetcode-logger/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
