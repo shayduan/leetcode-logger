@@ -163,6 +163,7 @@
 | [0015-3sum](https://github.com/shayduan/leetcode-logger/tree/master/0015-3sum) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -187,4 +189,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shayduan/leetcode-logger/tree/master/0015-3sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
