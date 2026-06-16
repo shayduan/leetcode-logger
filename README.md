@@ -169,6 +169,7 @@
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/shayduan/leetcode-logger/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/shayduan/leetcode-logger/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
