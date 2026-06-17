@@ -150,6 +150,7 @@
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/shayduan/leetcode-logger/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shayduan/leetcode-logger/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shayduan/leetcode-logger/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/shayduan/leetcode-logger/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
