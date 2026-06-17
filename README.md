@@ -223,6 +223,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shayduan/leetcode-logger/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shayduan/leetcode-logger/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
@@ -246,4 +247,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
