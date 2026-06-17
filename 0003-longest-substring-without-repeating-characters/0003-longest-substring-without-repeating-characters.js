@@ -3,24 +3,18 @@
  * @return {number}
  */
 
-// Sliding window
-// [i, j] as the window, move j-> in each loop; when duplicate, move i-> until no duplicate
-// recording the length of the window during the traverse
-// --------
-// Time complexity O(n): every character enters and leaves the window at most once. The two pointers each traverses the string only once, thus the total work is O(n)
-// Space complexity O(n): The set size is bounded by the distinct chars in the string, thus O(min(n, charset)) space
+// O(n) O(n), sliding window + map
 var lengthOfLongestSubstring = function(s) {
-    let window = new Set();
+    let map = new Map(); // char -> index
+    let l = 0, r = 0;
     let maxlen = 0;
-    let i = 0, j = 0;
-    while (j < s.length) {
-        while (window.has(s[j])) {
-            window.delete(s[i]);
-            i++;
-        }
-        window.add(s[j]);
-        if (window.size > maxlen) maxlen = window.size;
-        j++;
+
+    while (r < s.length) {
+        if (map.has(s[r])) l = Math.max(l, map.get(s[r]) + 1);
+        map.set(s[r], r);
+        maxlen = Math.max(r - l + 1, maxlen);
+        r++;
     }
+
     return maxlen;
 };
