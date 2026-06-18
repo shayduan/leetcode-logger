@@ -174,6 +174,7 @@
 | [0238-product-of-array-except-self](https://github.com/shayduan/leetcode-logger/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
@@ -259,4 +260,20 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
