@@ -170,6 +170,7 @@
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shayduan/leetcode-logger/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
@@ -265,19 +266,23 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shayduan/leetcode-logger/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shayduan/leetcode-logger/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
