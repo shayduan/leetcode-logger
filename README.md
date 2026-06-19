@@ -265,6 +265,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shayduan/leetcode-logger/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/shayduan/leetcode-logger/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shayduan/leetcode-logger/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
@@ -295,13 +296,19 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shayduan/leetcode-logger/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shayduan/leetcode-logger/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shayduan/leetcode-logger/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shayduan/leetcode-logger/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shayduan/leetcode-logger/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shayduan/leetcode-logger/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shayduan/leetcode-logger/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
