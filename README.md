@@ -237,12 +237,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -261,6 +263,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -321,4 +324,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shayduan/leetcode-logger/tree/master/0098-validate-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
