@@ -5,19 +5,12 @@
  */
 
 // greedy
-// A _ _ A _ _ A
-// initial slots taken = maxFreq * maxCount + (maxFreq - 1) * n
+// A B _ _ A B _ _ A B, n = 3
+// initial slots taken = maxFreq * maxCount + (maxFreq - 1) * (n - (maxCount - 1))
 // more slots needed = Math.max(0, tasks - initial)
-
-// part = maxFreq - 1
-// empty = part * (n - (maxCount - 1))
-// tasksleft = tasks.len - maxFreq * maxCount
-// idle = Math.max(0, empty - tasksleft)
-//.     = Math.max(0, (maxFreq - 1) * (n - maxCount + 1) - tasks.len + maxFreq * maxCount)
-//.     = Math.max(0, (n + 1) * maxFreq+ maxCount - n - 1 - tasks.len)
 var leastInterval = function(tasks, n) {
     let freq = new Array(26).fill(0);
-    let maxFreq = '', maxCount = 0;
+    let maxFreq = 0, maxCount = 0;
 
     const A = 'A'.charCodeAt();
     for (let task of tasks) {
@@ -31,13 +24,13 @@ var leastInterval = function(tasks, n) {
         }
     }
 
-    // let initial = maxFreq * maxCount + (maxFreq - 1) * n;
-    // let more = Math.max(0, tasks.length - initial);
+    let initial = maxFreq * maxCount + (maxFreq - 1) * (n - (maxCount - 1));
+    let more = Math.max(0, tasks.length - initial);
 
-    let part = maxFreq - 1;
-    let empty = part * (n - (maxCount - 1));
-    let tasksLeft = tasks.length - maxFreq * maxCount;
-    let idle = Math.max(0, empty - tasksLeft);
+    // let part = maxFreq - 1;
+    // let empty = part * (n - (maxCount - 1));
+    // let tasksLeft = tasks.length - maxFreq * maxCount;
+    // let idle = Math.max(0, empty - tasksLeft);
 
-    return tasks.length + idle;
+    return initial + more;
 };
