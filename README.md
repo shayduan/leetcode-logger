@@ -179,6 +179,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -266,6 +270,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -334,4 +339,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
