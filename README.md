@@ -170,6 +170,7 @@
 | [0015-3sum](https://github.com/shayduan/leetcode-logger/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shayduan/leetcode-logger/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shayduan/leetcode-logger/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shayduan/leetcode-logger/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
