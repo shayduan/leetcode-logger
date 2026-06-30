@@ -185,6 +185,7 @@
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shayduan/leetcode-logger/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/shayduan/leetcode-logger/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shayduan/leetcode-logger/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shayduan/leetcode-logger/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -372,4 +373,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shayduan/leetcode-logger/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/shayduan/leetcode-logger/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shayduan/leetcode-logger/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
