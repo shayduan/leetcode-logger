@@ -185,6 +185,7 @@
 | [0704-binary-search](https://github.com/shayduan/leetcode-logger/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shayduan/leetcode-logger/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shayduan/leetcode-logger/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/shayduan/leetcode-logger/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shayduan/leetcode-logger/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shayduan/leetcode-logger/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
