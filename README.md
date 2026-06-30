@@ -142,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shayduan/leetcode-logger/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shayduan/leetcode-logger/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shayduan/leetcode-logger/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shayduan/leetcode-logger/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shayduan/leetcode-logger/tree/master/0058-length-of-last-word) |
@@ -367,4 +368,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shayduan/leetcode-logger/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
