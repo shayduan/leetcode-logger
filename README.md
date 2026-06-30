@@ -181,6 +181,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/shayduan/leetcode-logger/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
@@ -200,6 +201,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/shayduan/leetcode-logger/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
