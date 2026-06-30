@@ -172,6 +172,7 @@
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/shayduan/leetcode-logger/tree/master/0704-binary-search) |
