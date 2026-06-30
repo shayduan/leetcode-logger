@@ -159,6 +159,7 @@
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -208,6 +209,7 @@
 | [0015-3sum](https://github.com/shayduan/leetcode-logger/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -347,4 +351,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
