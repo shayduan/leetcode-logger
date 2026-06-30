@@ -6,22 +6,22 @@
 
 // binary search, find which part is sorted
 var search = function(nums, target) {
-    let n = nums.length;
-    let [l, r] = [0, n - 1];
+    let [l, r] = [0, nums.length - 1];
 
-    while (l <= r) {
+    while (l < r) {
         let mid = (l + r) >> 1;
         if (target === nums[mid]) return mid;
-        // left part [l, mid] is sorted
+        // left half [l, mid] is sorted
         if (nums[l] <= nums[mid]) {
-            if (target >= nums[l] && target < nums[mid]) r = mid - 1;
+            if (target >= nums[l] && target < nums[mid]) r = mid;
             else l = mid + 1;
-        }
-        // right part [mid, r] is sorted
+        } 
+        // right half [mid, r] is sorted
         else {
             if (target > nums[mid] && target <= nums[r]) l = mid + 1;
-            else r = mid - 1;
+            else r = mid;
         }
     }
-    return -1;
+
+    return nums[l] === target ? l : -1;
 };
