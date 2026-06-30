@@ -189,6 +189,7 @@
 | [0875-koko-eating-bananas](https://github.com/shayduan/leetcode-logger/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shayduan/leetcode-logger/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/shayduan/leetcode-logger/tree/master/1094-car-pooling) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
+| [1094-car-pooling](https://github.com/shayduan/leetcode-logger/tree/master/1094-car-pooling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/shayduan/leetcode-logger/tree/master/1094-car-pooling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shayduan/leetcode-logger/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shayduan/leetcode-logger/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shayduan/leetcode-logger/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/shayduan/leetcode-logger/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +277,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/shayduan/leetcode-logger/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
