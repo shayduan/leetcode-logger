@@ -282,6 +282,7 @@
 | [0295-find-median-from-data-stream](https://github.com/shayduan/leetcode-logger/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shayduan/leetcode-logger/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/shayduan/leetcode-logger/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/shayduan/leetcode-logger/tree/master/1094-car-pooling) |
 ## Bucket Sort
@@ -325,6 +326,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shayduan/leetcode-logger/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shayduan/leetcode-logger/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/shayduan/leetcode-logger/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [0210-course-schedule-ii](https://github.com/shayduan/leetcode-logger/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shayduan/leetcode-logger/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/shayduan/leetcode-logger/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -354,6 +357,7 @@
 | [0207-course-schedule](https://github.com/shayduan/leetcode-logger/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shayduan/leetcode-logger/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shayduan/leetcode-logger/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shayduan/leetcode-logger/tree/master/0743-network-delay-time) |
 ## Tree
 |  |
 | ------- |
@@ -404,4 +408,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/shayduan/leetcode-logger/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shayduan/leetcode-logger/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shayduan/leetcode-logger/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
