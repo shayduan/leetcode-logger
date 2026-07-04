@@ -172,6 +172,7 @@
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shayduan/leetcode-logger/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/shayduan/leetcode-logger/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shayduan/leetcode-logger/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
@@ -419,4 +420,8 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/shayduan/leetcode-logger/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/shayduan/leetcode-logger/tree/master/0743-network-delay-time) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/shayduan/leetcode-logger/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
