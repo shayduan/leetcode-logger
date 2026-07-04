@@ -148,6 +148,7 @@
 | [0058-length-of-last-word](https://github.com/shayduan/leetcode-logger/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
@@ -176,6 +177,7 @@
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shayduan/leetcode-logger/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -320,6 +322,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/shayduan/leetcode-logger/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/shayduan/leetcode-logger/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shayduan/leetcode-logger/tree/master/0199-binary-tree-right-side-view) |
@@ -354,6 +357,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shayduan/leetcode-logger/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shayduan/leetcode-logger/tree/master/0695-max-area-of-island) |
 ## Graph Theory
@@ -424,4 +428,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shayduan/leetcode-logger/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
