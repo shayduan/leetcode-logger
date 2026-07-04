@@ -150,6 +150,7 @@
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/shayduan/leetcode-logger/tree/master/0399-evaluate-division) |
@@ -179,6 +180,7 @@
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shayduan/leetcode-logger/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shayduan/leetcode-logger/tree/master/0198-house-robber) |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shayduan/leetcode-logger/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shayduan/leetcode-logger/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shayduan/leetcode-logger/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
@@ -270,6 +274,7 @@
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shayduan/leetcode-logger/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shayduan/leetcode-logger/tree/master/0424-longest-repeating-character-replacement) |
@@ -440,4 +445,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
