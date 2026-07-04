@@ -209,6 +209,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/shayduan/leetcode-logger/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -396,6 +397,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -429,4 +431,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/shayduan/leetcode-logger/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
