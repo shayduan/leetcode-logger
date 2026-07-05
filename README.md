@@ -279,6 +279,7 @@
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shayduan/leetcode-logger/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/shayduan/leetcode-logger/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/shayduan/leetcode-logger/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shayduan/leetcode-logger/tree/master/0206-reverse-linked-list) |
 ## Design
