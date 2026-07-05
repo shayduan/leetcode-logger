@@ -325,6 +325,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/shayduan/leetcode-logger/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/shayduan/leetcode-logger/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -456,4 +457,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shayduan/leetcode-logger/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shayduan/leetcode-logger/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
