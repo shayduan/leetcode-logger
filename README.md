@@ -215,6 +215,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shayduan/leetcode-logger/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shayduan/leetcode-logger/tree/master/0198-house-robber) |
@@ -409,6 +410,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shayduan/leetcode-logger/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/shayduan/leetcode-logger/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -448,4 +450,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shayduan/leetcode-logger/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
