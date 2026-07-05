@@ -11,19 +11,18 @@
 var uniquePaths = function(m, n) {
     const isValid = (i, j) => i >= 0 && i < m && j >= 0 && j < n;
     // let dp = Array.from({length: m}, () => new Array(n).fill(0));
-    let cur = new Array(n).fill(0);
+    let cur = new Array(n).fill(1);
 
-    cur[0] = 1;// dp[0][0] = 1;
-    for (let i = 0; i < m; i++) {
-        let prev = new Array(n).fill(0);
-        for (let j = 0; j < n; j++) {
-            if (isValid(i - 1, j)) cur[j] += prev[j];// dp[i][j] += dp[i - 1][j];
-            if (isValid(i, j - 1)) cur[j] += cur[j - 1];// dp[i][j] += dp[i][j - 1];
+    // dp[0][0] = 1;
+    for (let i = 1; i < m; i++) {
+        for (let j = 1; j < n; j++) {
+            cur[j] += cur[j - 1];
+            // if (isValid(i - 1, j)) dp[i][j] += dp[i - 1][j];
+            // if (isValid(i, j - 1)) dp[i][j] += dp[i][j - 1];
         }
-        prev = cur;
     }
 
-    // dp[i-1][j]
+    //            dp[i-1][j]
     // dp[i][j-1] dp[i][j]
 
     return cur[n - 1]; // dp[m - 1][n - 1];
