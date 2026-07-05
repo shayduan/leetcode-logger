@@ -149,6 +149,7 @@
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/shayduan/leetcode-logger/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/shayduan/leetcode-logger/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/shayduan/leetcode-logger/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shayduan/leetcode-logger/tree/master/0151-reverse-words-in-a-string) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shayduan/leetcode-logger/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/shayduan/leetcode-logger/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/shayduan/leetcode-logger/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shayduan/leetcode-logger/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shayduan/leetcode-logger/tree/master/0322-coin-change) |
