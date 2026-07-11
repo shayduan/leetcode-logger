@@ -178,6 +178,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shayduan/leetcode-logger/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/shayduan/leetcode-logger/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/shayduan/leetcode-logger/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/shayduan/leetcode-logger/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shayduan/leetcode-logger/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/shayduan/leetcode-logger/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/shayduan/leetcode-logger/tree/master/0079-word-search) |
@@ -216,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shayduan/leetcode-logger/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shayduan/leetcode-logger/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shayduan/leetcode-logger/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shayduan/leetcode-logger/tree/master/0091-decode-ways) |
@@ -290,6 +292,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shayduan/leetcode-logger/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/shayduan/leetcode-logger/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shayduan/leetcode-logger/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shayduan/leetcode-logger/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shayduan/leetcode-logger/tree/master/0347-top-k-frequent-elements) |
